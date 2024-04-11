@@ -1,0 +1,59 @@
+##############################INPUTS#####################################
+1. www.google.com IN A
+2. www.cnn.com IN NS
+3. facebook.com IN MX
+4. google.co.jp
+
+******************************* EXAMPLE FOR RECORD TYPE A *******************************
+QUESTION SECTION:
+www.google.com        IN A
+
+ANSWER SECTION:
+www.google.com        IN A 142.251.8.103
+www.google.com        IN A 142.251.8.105
+www.google.com        IN A 142.251.8.99
+www.google.com        IN A 142.251.8.147
+www.google.com        IN A 142.251.8.106
+www.google.com        IN A 142.251.8.104
+
+
+QUERY TIME: 84msec
+WHEN:  Tuesday September 20 2022-09-20 00:59:43.156798 2022
+MSG SIZE rcvd:  104
+
+******************************* EXAMPLE FOR RECORD TYPE NS *******************************
+QUESTION SECTION:
+www.cnn.com        IN NS
+
+ANSWER SECTION:
+www.cnn.com        IN A 151.101.79.5
+
+
+QUERY TIME: 181msec
+WHEN:  Tuesday September 20 2022-09-20 00:59:43.338472 2022
+MSG SIZE rcvd:  104
+
+******************************* EXAMPLE FOR RECORD TYPE MX *******************************
+QUESTION SECTION:
+www.facebook.com        IN MX
+
+ANSWER SECTION:
+www.facebook.com        IN A 31.13.77.35
+
+
+QUERY TIME: 289msec
+WHEN:  Tuesday September 20 2022-09-20 00:59:43.627601 2022
+MSG SIZE rcvd:  104
+
+******************************* EXAMPLE FOR RECORD TYPE A *******************************
+QUESTION SECTION:
+google.co.jp        IN A
+
+ANSWER SECTION:
+google.co.jp        IN A 142.250.65.163
+
+
+QUERY TIME: 152msec
+WHEN:  Tuesday September 20 2022-09-20 00:59:43.779760 2022
+MSG SIZE rcvd:  104
+
