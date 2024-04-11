@@ -1,0 +1,36 @@
+CS 534, Fall 2022
+Instructor: Aruna Balasubramanian
+
+Paper Reading and writing summaries
+-------------------------------------------------------
+
+Here is some good advice on reading papers, by Keshav: http://ccr.sigcomm.org/online/files/p83-keshavA.pdf
+
+This advice is geared towards researchers and reviewers. For the purpose of this class, you do not have to worry about references etc. 
+
+The important take away is to read the paper in multiple stages
+
+Stage 1: A quick reading of the introduction and the conclusion. You should know what the paper is about.
+
+Stage 2: A slightly more thorough reading. This time, your goal is to understand what the authors main contributions/claims are. The second goal is to understand the techniques/solutions used by the authors.
+
+Stage 3: Now write down all evidence you need to support the authors claims.  A final reading to see if the authors have enough support for their claims.
+
+Your project summaries should have the following information:
+------------------------------------------------------------------------------------------
+
+1. What is the problem? 
+
+2. What are the contributions in the paper? 
+
+3. What are the conclusions in the paper and how do the authors support their conclusions (for example using measurement study, experimentation, analysis, modeling, etc). 
+
+4. What did you like about the paper (or what is the one new/cool thing you learnt from the paper)
+
+5. What did you not like about the paper? Is there something you dont agree with the paper? (or how can you improve the paper)
+
+The summary should be no more than 1 page. Any format is ok and if you summary goes a few lines extra or less than 1 page that is ok. But please use a font of at least 10 or above to spare my eyesight. Please proof-read your summaries. 
+
+Most importantly, do not plagiarize. Do not lift sentences from the paper. Every sentence you write should be your own. I take plagiarism very seriously and will give you a zero if you verbatim lift sentences from the paper. 
+
+
